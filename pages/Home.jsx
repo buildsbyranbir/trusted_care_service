@@ -9,7 +9,6 @@ import {
 } from 'lucide-react';
 
 import { SERVICES, SERVICE_ICONS } from '../constants';
-import { getCareAdvice } from '../services/geminiService';
 
 const Home = () => {
   const [aiPrompt, setAiPrompt] = useState('');
