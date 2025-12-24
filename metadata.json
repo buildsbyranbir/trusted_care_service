@@ -1,0 +1,8 @@
+
+{
+  "name": "Care.xyz",
+  "description": "A premium web application providing trusted care services for children, elderly, and family members. Features secure booking, dynamic cost calculation, and AI-powered care assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
